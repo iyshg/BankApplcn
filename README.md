@@ -13,6 +13,7 @@ dotnet test
 
 
 ---------------Sample Inputs-------------------
+
 [T] Input Transaction
 20250801 AC001 D 1000
 20250802 AC001 W 200
